@@ -34,3 +34,6 @@ data/processed/*
 Thumbs.dbnotebooks/cache/
 cache/
 *.sqlite
+notebooks/cache/
+cache/
+*.sqlite
