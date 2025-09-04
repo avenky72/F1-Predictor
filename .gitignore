@@ -31,4 +31,6 @@ data/processed/*
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbnotebooks/cache/
+cache/
+*.sqlite
